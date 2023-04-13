@@ -1,0 +1,5 @@
+# 忽略当前目录下所有子文件夹中的.dir
+*/.*
+*/build
+*/sdkconfig*
+*/README.md
